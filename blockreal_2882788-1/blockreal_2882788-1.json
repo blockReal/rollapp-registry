@@ -1,7 +1,7 @@
 {
-  "chainId": "blockreal_2882788-1",
+  "chainId": "2882788",
   "chainName": "blockreal_2882788-1",
-  "rpc": "",
+  "rpc": "http://45.94.209.81:8545",
   "rest": "",
   "bech32Prefix": "ethm",
   "currencies": [
@@ -9,14 +9,14 @@
       "displayDenom": "BLOCK",
       "baseDenom": "uBLOCK",
       "decimals": 18,
-      "logo": "/logos/blockreal_2882788-1.png",
+      "logo": "/logos/logo.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/blockreal_2882788-1.png",
+  "logo": "/logos/logo.png",
   "ibc": {
     "hubChannel": "channel-7104",
     "channel": "channel-0",
